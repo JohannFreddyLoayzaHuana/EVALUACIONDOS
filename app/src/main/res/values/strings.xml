@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppCuestion</string>
+    <string name="Pregunta_fundacion">¿Ayacucho cumplio 434 años de fundacion?</string>
+    <string name="boton_Verdadero" />
+    <string name="boton_verdadero">VERDADERO</string>
+    <string name="boton_Falso">FALSO</string>
+    <string name="boton_Siguiente">"Siguiente "</string>
+    <string name="boton_Siguien">Siguiente</string>
+    <string name="atras_boton">ATRAS</string>
+</resources>
